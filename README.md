@@ -2,6 +2,27 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `Demo here`
+To view the demo: [click here](https://vermadilip.github.io/atm-machine/)
+
+### `Login Credentials`
+
+  { userId: 1, name: "John", pin: "1234", balance: 5000 },
+  { userId: 2, name: "Alice", pin: "5678", balance: 2000 },
+  { userId: 3, name: "Bob", pin: "9012", balance: 10000 },
+
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+## Receipt
+![alt text](image-4.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
