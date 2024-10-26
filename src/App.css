@@ -1,38 +1,84 @@
-.App {
+.atm-app {
   text-align: center;
+  font-family: Arial, sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+input {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+h1, h2 {
+  color: #333;
+}
+
+p {
+  color: red;
+}
+.atm-app {
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to bottom right, #283c86, #45a247);
+}
+
+.atm-machine {
+  background-color: #f4f4f4;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  max-width: 400px;
+  width: 100%;
+}
+
+.atm-card {
+  background: white;
+  padding: 20px;
+  margin-top: 20px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.atm-button {
+  padding: 10px 20px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+  background-color: #283c86;
   color: white;
+  cursor: pointer;
+  font-size: 16px;
+  width: 100%;
+  transition: background 0.3s;
 }
 
-.App-link {
-  color: #61dafb;
+.atm-button:hover {
+  background-color: #45a247;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.cancel {
+  background-color: #d9534f;
+}
+
+input {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.message {
+  color: red;
+  margin-top: 20px;
 }
