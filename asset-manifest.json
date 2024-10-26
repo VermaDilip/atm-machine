@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/atm-machine/static/css/main.46abe0f4.css",
+    "main.js": "/atm-machine/static/js/main.1977adc6.js",
+    "static/js/239.30c7e360.chunk.js": "/atm-machine/static/js/239.30c7e360.chunk.js",
+    "static/js/213.5a9ca6c4.chunk.js": "/atm-machine/static/js/213.5a9ca6c4.chunk.js",
+    "static/js/732.5e3f7e2e.chunk.js": "/atm-machine/static/js/732.5e3f7e2e.chunk.js",
+    "static/js/453.e5ac7d1b.chunk.js": "/atm-machine/static/js/453.e5ac7d1b.chunk.js",
+    "static/media/logo.svg": "/atm-machine/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/atm-machine/index.html",
+    "main.46abe0f4.css.map": "/atm-machine/static/css/main.46abe0f4.css.map",
+    "main.1977adc6.js.map": "/atm-machine/static/js/main.1977adc6.js.map",
+    "239.30c7e360.chunk.js.map": "/atm-machine/static/js/239.30c7e360.chunk.js.map",
+    "213.5a9ca6c4.chunk.js.map": "/atm-machine/static/js/213.5a9ca6c4.chunk.js.map",
+    "732.5e3f7e2e.chunk.js.map": "/atm-machine/static/js/732.5e3f7e2e.chunk.js.map",
+    "453.e5ac7d1b.chunk.js.map": "/atm-machine/static/js/453.e5ac7d1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46abe0f4.css",
+    "static/js/main.1977adc6.js"
+  ]
+}
